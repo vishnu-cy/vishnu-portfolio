@@ -142,7 +142,7 @@ export default function HomePage() {
       </section>
 
       {/* System Map Section */}
-      <!-- <section className="relative px-6 py-16 sm:px-10 lg:px-16">
+     <section className="relative px-6 py-16 sm:px-10 lg:px-16">
         <div className="mx-auto max-w-7xl">
           <div className="mb-8 flex flex-col justify-between gap-4 md:flex-row md:items-end">
             <div>
@@ -185,7 +185,7 @@ export default function HomePage() {
             ))}
           </div>
         </div>
-      </section> -->
+      </section>
 
       {/* Featured Projects */}
       <section className="relative px-6 py-16 sm:px-10 lg:px-16">
