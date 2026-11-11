@@ -62,8 +62,8 @@ export default function HomePage() {
             </h1>
 
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
-              I’m {profile.name}, an MSc Cybersecurity and AI student at the
-              University of Sheffield, expected to graduate in September 2026. I
+              I’m {profile.name}, an Security Researcher and Ethical Hacker with a MSc Cybersecurity and AI from the
+              University of Sheffield. I
               focus on vulnerability analysis, AI security, cyber-physical
               systems, and defensive research for intelligent technologies.
             </p>
