@@ -10,9 +10,9 @@ const focusAreas = [
   "AI Security",
   "Vulnerability Analysis",
   "Autonomous Systems",
-  "Threat Modelling",
+  "Ethical Hacking",
   "Secure ML",
-  "Cyber-Physical Defence",
+  "Zero-Knowledge Proofs",
 ];
 
 const systemLayers = [
