@@ -62,9 +62,9 @@ export default function HomePage() {
             </h1>
 
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
-              I’m {profile.name}, an Security Researcher and Ethical Hacker with a MSc Cybersecurity and AI from the
+              I’m Vishnu Sureshkumar Rajalekshmi, a Security Researcher and Ethical Hacker with a MSc in Cybersecurity and AI from the
               University of Sheffield. I
-              focus on vulnerability analysis, AI security, cyber-physical
+              work on vulnerability analysis, AI security, cyber-physical
               systems, and defensive research for intelligent technologies.
             </p>
 
@@ -113,9 +113,7 @@ export default function HomePage() {
             <div className="absolute -inset-4 rounded-[2rem] bg-cyan-400/20 blur-2xl" />
 
             <div className="relative overflow-hidden rounded-[2rem] border border-cyan-400/30 bg-slate-950/80 p-3 shadow-2xl shadow-cyan-950/40 backdrop-blur">
-              <div className="absolute left-5 top-5 z-10 rounded-full border border-cyan-400/30 bg-slate-950/80 px-3 py-1 text-xs uppercase tracking-[0.3em] text-cyan-300">
-                Profile
-              </div>
+              
 
               <Image
                 src="/profile.jpeg"
@@ -131,18 +129,14 @@ export default function HomePage() {
                   MSc Cybersecurity & AI
                 </p>
                 <p className="mt-1 text-sm text-slate-300">
-                  University of Sheffield · Expected Sept 2026
+                  University of Sheffield . Sept 2026
                 </p>
               </div>
             </div>
 
-            <div className="absolute -right-6 -top-6 hidden rounded-2xl border border-emerald-400/30 bg-emerald-400/10 px-4 py-3 text-xs uppercase tracking-[0.25em] text-emerald-300 backdrop-blur sm:block">
-              AISEC
-            </div>
+      
 
-            <div className="absolute -bottom-6 -left-6 hidden rounded-2xl border border-cyan-400/30 bg-cyan-400/10 px-4 py-3 text-xs uppercase tracking-[0.25em] text-cyan-300 backdrop-blur sm:block">
-              Threat Lab
-            </div>
+            
           </motion.div>
         </div>
       </section>
